@@ -11,7 +11,7 @@ Here is a general overview of this project : -
 
 This is a team project of 4 members, where I played a role in Data Augmentation (scaling, rotating and flipping) and Data Generation(same height and width of images) <br>
 
-I wont be able to upload the test datasets here on GitHub due to the large size, but, here is a link below which can guide you to the datasets from kaggle <br>
+I wont be able to upload the test datasets here on GitHub due to the large size, but here is a link below which can guide you to the datasets from kaggle <br>
 https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
 
 
