@@ -16,34 +16,7 @@ However, the mathematical functions required for the implementation is performed
 <br>
 This is a team project of 4 members, where I played a role in Data Augmentation (scaling, rotating and flipping) and Data Generation(same height and width of images)
 
-
-
-
-
-
-
-
-
-
 ![unnamed](https://github.com/akshgarg10/Diabetic-retinopathy-detection/assets/104502015/da128bbe-2927-421e-a381-c55028d243c8)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 I wont be able to upload the test datasets here on GitHub due to the large size, but here is a link below which can guide you to the datasets from kaggle <br>
 https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
