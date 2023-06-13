@@ -8,6 +8,14 @@ Here is a general overview of this project : -
 5) Evaluation & Deployment
 <br>
 
+<h1>Working </h1>
+This work employs the CNN methodology for detecting the diabetic retinopathy based on severity level. Many processes will be carried out before feeding the images to the network. 
+We will train the two models in this work: our proposed model and the regression model and then we will make a comparison between the accuracies obtained by the two models.
+So, we will be taking the data for Diabetic Retinopathy Detection and for APTOS blindness detection from Kaggle. Both the datasets contain thousands of retinal images under different conditions. As the images contains a lot of noise, like some images may be out of focus, some may have a lot of exposure, some may have extra lighting, presence of the black background, etc. so we need to do preprocessing in order to get them in the standard format. Now we will analyze the data, if the data is highly unbalanced among the diabetic retinopathy severity image classes, it will give rise to the propensity of data augmentation. Data augmentation is framed by aligning one class to the class with most samples, in order to balance the data among the diabetic retinopathy severity classes. The implementation will be executed using python language, where a wide variety of libraries were employed for processing of images and to get acquainted with the system for creating deep learning network. The type of library for image management and preprocessing will be OpenCV.
+However, the mathematical functions required for the implementation is performed by NumPy. TensorFlow and Scikit-learn will also use for efficient management of CNN models and for defining the model. The implementation of the model will make use of GPU enabled devices for easier and faster processing.
+
+
+
 
 This is a team project of 4 members, where I played a role in Data Augmentation (scaling, rotating and flipping) and Data Generation(same height and width of images)
 
