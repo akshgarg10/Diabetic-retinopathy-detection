@@ -8,6 +8,6 @@ Here is a general overview of this project : -
 5) Evaluation & Deployment
 
 
-This project is a team project of 4 members, where I played a role in Data Augmentation (scaling, rotating and flipping) and Data Generation(same height and width of images)
+This is a team project of 4 members, where I played a role in Data Augmentation (scaling, rotating and flipping) and Data Generation(same height and width of images)
 
 
