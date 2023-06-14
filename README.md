@@ -18,6 +18,9 @@ This is a team project of 4 members, where I played a role in Data Augmentation 
 
 ![unnamed](https://github.com/akshgarg10/Diabetic-retinopathy-detection/assets/104502015/da128bbe-2927-421e-a381-c55028d243c8)
 
+<br>
+A sample folder has been provided to run the model on these sample images.
+
 I wont be able to upload the test datasets here on GitHub due to the large size, but here is a link below which can guide you to the datasets from kaggle <br>
 https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
 
