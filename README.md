@@ -15,7 +15,6 @@ So, we will be taking the data for Diabetic Retinopathy Detection and for APTOS 
 However, the mathematical functions required for the implementation is performed by NumPy. TensorFlow and Scikit-learn will also use for efficient management of CNN models and for defining the model. The implementation of the model will make use of GPU enabled devices for easier and faster processing.
 <br><br>
 This is a team project of 4 members, where I played a role in Data Augmentation (scaling, rotating and flipping) and Data Generation(same height and width of images)<br>
-<br>
 ![unnamed](https://github.com/akshgarg10/Diabetic-retinopathy-detection/assets/104502015/da128bbe-2927-421e-a381-c55028d243c8)
 
 <br><br>
