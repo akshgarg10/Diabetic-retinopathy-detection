@@ -1,4 +1,4 @@
-# Diabetic-retinopathy-detection
+# Diabetic retinopathy detection
 This is a model that helps us in early detection of diabetic retinopathy<br><br>
 Here is a general overview of this project : -
 1) Data Collection
